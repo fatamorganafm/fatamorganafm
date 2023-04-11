@@ -1,6 +1,6 @@
 ------
 ### Hi there 👋 I am fatamorgana
-:house_with_garden: I live in Czechia, Prague.<br>
+:house_with_garden: I live in Czechia.<br>
 :computer: Student.<br>
 
 ### Skill-set
